@@ -1,0 +1,10 @@
+vevn/
+.venv/
+env/
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+*.sqlite3
+migrations/
